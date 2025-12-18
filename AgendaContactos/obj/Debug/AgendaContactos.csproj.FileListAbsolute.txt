@@ -1,0 +1,11 @@
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.exe.config
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.exe
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.pdb
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.csproj.AssemblyReference.cache
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.FrmContactos.resources
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.Properties.Resources.resources
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.csproj.GenerateResource.cache
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.csproj.CoreCompileInputs.cache
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.exe
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.pdb
+C:\Users\Ivelisse\source\repos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.exe.config
